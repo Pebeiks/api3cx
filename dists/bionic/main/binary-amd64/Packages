@@ -1,0 +1,15 @@
+Package: temo
+Version: 1.1
+Architecture: amd64
+Depends: 3cxpbx
+Maintainer: Ethem CETINKAYA <etc@iletiks.com>
+Priority: 0
+Section: utils
+Filename: pool/main/t/temo/temo_1.1_amd64.deb
+Size: 33324316
+SHA256: d5b3b98724bc27076d4b9897364b53fa58835a945a74401f3c4a3e807096b154
+SHA1: efcbd244171cf7830e1005f04de04eae7dc33833
+MD5sum: d2b63f0bb5830eb4addf712c1b10dbc1
+Description: Temo Background Service
+ This is a Helper Service for 3cxPbx as a background service.
+
