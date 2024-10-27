@@ -5,11 +5,11 @@ Origin: Temo
 Label: Temo Custom Repository
 Suite: stable
 Codename: bionic
-Date: Sun, 27 Oct 2024 12:35:45 UTC
+Date: Sun, 27 Oct 2024 12:38:36 UTC
 Architectures: amd64
 Components: main
 Description: Debian x64 github temo for 3cx repository
-Signed-By: B4173BBD66DB2A5AD62431FE3F11DACF69DFE907
+Signed-By: 3F11DACF69DFE907
 MD5Sum:
  6e4f99780f52b58ec8a44c9fd42dfb2e 458 main/binary-amd64/Packages
  37c642e4e93d4f9da74f611561fe8713 353 main/binary-amd64/Packages.gz
@@ -24,17 +24,17 @@ SHA256:
  e53da481e9983dd26cde43b57eebcdecdf6aa858a892830e933c3e2be03d420b 150 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEtBc7vWbbKlrWJDH+PxHaz2nf6QcFAmceM6IACgkQPxHaz2nf
-6Qd8Wg//WNM9N/4FRu2ySX7WOk5fJWD5lMIfY7wOZibD+J3i8xDFB0Yn23r4702Q
-atgMVNuN5yRIh6jeVpuXugjkvcV5duHVUJ8IvTcyURn4NLoiZSlEI/XcSVjpS7Xv
-9xf3p/qIGepwab2nvXiYEJM52NTKQuwy+SWkKmqlE2uWuVAvOEt3apNL5nCBLJKt
-yp/99+r3ZGNT9vnZmBaks6LcThhQOpwZD95hRlydj2Iq6v+6vG6qj/eZ2uQPBUeb
-e5bnyOiJX2Uhujax7ECRffkB5wyGcdk/kCDc7mRpaITuHtu21oahnt+6w4AaI5vs
-Z/jk20r8GR1CUFl8dr3ok02xrDd6eGcGy5oaQxE5KW5Vz/WLPxf5MA2RjWR+UUoa
-mKRmD3Cz29BXP0TyKhXEP55yGN7aTQ5VteiN+52vSPp2r192GG/zeOuQEkI039MZ
-w/0qKeFd/JHiku+I+DGfbikaVc2haiDfbTWP5Ob4lmj8mztQjdW/V9sBbl7EoAEs
-BCD5ZEWXLNAvDVk9BjMdxTTAgr1WYu2ffwC5Hwk5YjGhySzdhHYt1dt66JSTZrD1
-5eF4AVAT+UX/N93kPv9uvEna4naRUPvgBp+HsRyqfQd6ZAJbLNgY+qSjhE/dz3Kc
-aAarf0wEgC0vao23nSZ6aVZa8RwGBTJ72pmXFj1bvT7TLaisqqs=
-=0krp
+iQIzBAEBCgAdFiEEtBc7vWbbKlrWJDH+PxHaz2nf6QcFAmceNE0ACgkQPxHaz2nf
+6QcPOw/+LJ16SSYVT3UioYiQY59ZjsjUUTSKD3MYd7OqAc/Xsfxovoa0xukj+4ZA
+stGshyUlh3vFstCUQ8sJAb+MoIuL9UUncNLjK2E2c0PvZ/i5c7XxObFhEyIC26PF
+W08sDbefrVhJRbOjxqb7nybXtiqh5FvZl6Da59zvGQztL48ITDOuPCQ2JANyIUdg
+KakX6Q2MQO2iMDJhzMMkwB7yrJzcbhAKzwCjBNvgZYu8bj9V2+p+IRS/9bhB8PNa
+FiH7rVd9g7Ut9aBlBho5LF7YbgghHl1UdFGTokGqykPVBp/MyU8QBcnXh1L/udCM
+LdC+huBNlYeVxQhY5/1Q9lmyDR8QKcXP/t05WHa5Cd3TiIVKZWpQEN+mGxzX5bpt
+Urp/7BEmsBzpsXMF5vzeOnjfPDXIlgVWqbkSyrvT4ijZA1xvEODURi+eeV3NKMS4
+83ZUuyM9GIX2Y9r4fpRckFG9qIX5X3xgufbWAiovMe4iUSvgO895jQI5j7L3rova
+cB7se6yY/kHZw16LOJQMfbR4WgyTXqshxRwsSgqVU5wtpVAIRNQXe/AzKLTY3yWq
+bFJ6K3Ngimit4g8v8HaDuhFpeArLLOkgofo/rntpLSqaLkLUm6156PQnEDWqEmJt
+h1Wd/+qIubR5dsJptuzY4+kvT/t6nANehLuatE874JWixO5peTk=
+=IJt7
 -----END PGP SIGNATURE-----
