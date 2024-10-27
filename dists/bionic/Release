@@ -2,10 +2,11 @@ Origin: Temo
 Label: Temo Custom Repository
 Suite: stable
 Codename: bionic
-Date: Sun, 27 Oct 2024 12:07:23 UTC
+Date: Sun, 27 Oct 2024 12:13:46 UTC
 Architectures: amd64
 Components: main
 Description: Debian x64 github temo for 3cx repository
+Signed-By: B4173BBD66DB2A5AD62431FE3F11DACF69DFE907
 MD5Sum:
  6e4f99780f52b58ec8a44c9fd42dfb2e 458 main/binary-amd64/Packages
  37c642e4e93d4f9da74f611561fe8713 353 main/binary-amd64/Packages.gz
