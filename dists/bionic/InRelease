@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 Origin: Temo
 Label: Temo Custom Repository
 Suite: stable
@@ -18,3 +21,19 @@ SHA256:
  d262981a56fb7560685ee41b0e966a4ff26cca4f741551acdc578eef610831dd 458 main/binary-amd64/Packages
  b23262b408740170624f02e48f43555b6fd7f8bb976d3e466a19ee463ea7f6a3 353 main/binary-amd64/Packages.gz
  e53da481e9983dd26cde43b57eebcdecdf6aa858a892830e933c3e2be03d420b 150 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEtBc7vWbbKlrWJDH+PxHaz2nf6QcFAmceMMEACgkQPxHaz2nf
+6Qcn2BAAry0eld2lkOMWvvNukYlmItpZiDF0QuEV1aiqYF7UtOMfWInXBCsUq7P9
+yH9gE+lfsjWt2N5wFayQUtg1jk4kSkkNauim5VSZ0vSRRL4q6d5fbZaWJIKcertY
+CT09oExKnX1PuM1Wj4hZhEwtNcp4CIf25+sd6rRHTmYEEazYg7YWNMOQrypkZiTB
+vEvUV10TzHt7VJJuUtrQfKHu0ELumgS67ZqqiLuG8Q0ewzTU7/rsCiKx51+JEgIl
+oqjR5ByKZe/u7YXNCCNZw6yS8Qw3+8HY7pDCuPHhXUetnbJYjlYc9wMmwbay74gw
+uVEYFl5o2LH47HlbmohQJIXJ7gFcswbeLEs9dcetcWY6n3bTV8cMOqpFDmttrxBw
+ao+FuRnCBTxnfBf7Lv2BZcE1a8vaWkpe84oQ7JpMTEIB9wHMZZH//7dyS4PuJoCz
+ngdQUv5msBp+RH8ol/Ixtp1of/qD95nezPyYxsoPDJtDf+Ly3ftzIXn0+hA/KgF2
+PsMGLxUPAkSs3FqbXFrc2k4xB52QyHvSmB8MQXkQmKU5CPV1TQqPfxQ6QJ05VOf2
+AJAdOgKhQX7Cdbp9c1ucwqoTuX8fIjxLOcPXvx/8ARNukLpfZAx01hFAyQ1sofr3
+GQ5eom83Ezkud20VYq+n3RjNspkcJ7W44bomILL81R60njud27A=
+=Q1OF
+-----END PGP SIGNATURE-----
