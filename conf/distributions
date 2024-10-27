@@ -5,4 +5,4 @@ Codename: bionic
 Architectures: amd64
 Components: main
 Description: Debian x64 github temo for 3cx repository
-SignWith: B4173BBD66DB2A5AD62431FE3F11DACF69DFE907  # Full GPG fingerprint
+SignWith: 58782C6067260F65
