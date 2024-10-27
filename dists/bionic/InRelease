@@ -5,11 +5,10 @@ Origin: Temo
 Label: Temo Custom Repository
 Suite: stable
 Codename: bionic
-Date: Sun, 27 Oct 2024 12:38:36 UTC
+Date: Sun, 27 Oct 2024 12:42:10 UTC
 Architectures: amd64
 Components: main
 Description: Debian x64 github temo for 3cx repository
-Signed-By: 3F11DACF69DFE907
 MD5Sum:
  6e4f99780f52b58ec8a44c9fd42dfb2e 458 main/binary-amd64/Packages
  37c642e4e93d4f9da74f611561fe8713 353 main/binary-amd64/Packages.gz
@@ -24,17 +23,17 @@ SHA256:
  e53da481e9983dd26cde43b57eebcdecdf6aa858a892830e933c3e2be03d420b 150 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEtBc7vWbbKlrWJDH+PxHaz2nf6QcFAmceNE0ACgkQPxHaz2nf
-6QcPOw/+LJ16SSYVT3UioYiQY59ZjsjUUTSKD3MYd7OqAc/Xsfxovoa0xukj+4ZA
-stGshyUlh3vFstCUQ8sJAb+MoIuL9UUncNLjK2E2c0PvZ/i5c7XxObFhEyIC26PF
-W08sDbefrVhJRbOjxqb7nybXtiqh5FvZl6Da59zvGQztL48ITDOuPCQ2JANyIUdg
-KakX6Q2MQO2iMDJhzMMkwB7yrJzcbhAKzwCjBNvgZYu8bj9V2+p+IRS/9bhB8PNa
-FiH7rVd9g7Ut9aBlBho5LF7YbgghHl1UdFGTokGqykPVBp/MyU8QBcnXh1L/udCM
-LdC+huBNlYeVxQhY5/1Q9lmyDR8QKcXP/t05WHa5Cd3TiIVKZWpQEN+mGxzX5bpt
-Urp/7BEmsBzpsXMF5vzeOnjfPDXIlgVWqbkSyrvT4ijZA1xvEODURi+eeV3NKMS4
-83ZUuyM9GIX2Y9r4fpRckFG9qIX5X3xgufbWAiovMe4iUSvgO895jQI5j7L3rova
-cB7se6yY/kHZw16LOJQMfbR4WgyTXqshxRwsSgqVU5wtpVAIRNQXe/AzKLTY3yWq
-bFJ6K3Ngimit4g8v8HaDuhFpeArLLOkgofo/rntpLSqaLkLUm6156PQnEDWqEmJt
-h1Wd/+qIubR5dsJptuzY4+kvT/t6nANehLuatE874JWixO5peTk=
-=IJt7
+iQIzBAEBCgAdFiEEtBc7vWbbKlrWJDH+PxHaz2nf6QcFAmceNSMACgkQPxHaz2nf
+6QdOmRAAjHnwyykTrE/2DpsiEMS7Gm8ho/2YyIhgrjg2HStKQnGPvJ4yV8eK+2o/
+xz3R6BQ8H9WgH6KjbzCwg1yKHA2zSB/c2rKYZxcq0DNCY+MUgHBPcv9sIagICQNx
+laesGiQxzN6ZSFUK0RFC/tljVoD0b5V/7k7D74CgRe4TTIeWZrsozN8NUkG/w1Sg
+LwaOTib/v+H83r2a/Tzu/Cs5A+D83hvB/CqJPqh2AUTZv4qZElgSdUJDtKtn2+7J
+jHOGOyK3+0C/m5OW8tyae+JkQ5zg1OTzhuHfMvKwgzleuD8ug9ReO6LIOI4n3jUd
+YrCIaspwayMHQkPtU1Ab6U2cgHGn3VFAzS+WuoQaZ0jxZkZjOJ89LPZZxQnkT3ix
+o9GrX4Jc8kbO3HdH3Q7wJTThZdyPgwLbslBa14QH9IasmdfwzKLOmTPa0V6N5b1j
+iAqOaYzROXYuBwhSkkSe28h8jZC9fSAhcueNrQ4IeudyPBYS6q6GPYpfYhEvUD+Q
++zP1cuMuloM+P6aS5Rrysk8TdhJ9gX69TV8iM7dR2TrpICQGmctEHIqIs26Zy/Ss
+zez0QeYH7fEIuBtA7F2aUHsV8omHPEaMKNzFnJvvW0fK58yK8kMhBN7UQ9sJ2AG5
+68KQJ99Thd5r6kI72INfFjlyslHo9gVZGGgi0GbzLH7BXkFEp9U=
+=r+lD
 -----END PGP SIGNATURE-----
