@@ -5,10 +5,11 @@ Origin: Temo
 Label: Temo Custom Repository
 Suite: stable
 Codename: bionic
-Date: Sun, 27 Oct 2024 12:27:40 UTC
+Date: Sun, 27 Oct 2024 12:35:45 UTC
 Architectures: amd64
 Components: main
 Description: Debian x64 github temo for 3cx repository
+Signed-By: B4173BBD66DB2A5AD62431FE3F11DACF69DFE907
 MD5Sum:
  6e4f99780f52b58ec8a44c9fd42dfb2e 458 main/binary-amd64/Packages
  37c642e4e93d4f9da74f611561fe8713 353 main/binary-amd64/Packages.gz
@@ -23,17 +24,17 @@ SHA256:
  e53da481e9983dd26cde43b57eebcdecdf6aa858a892830e933c3e2be03d420b 150 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEtBc7vWbbKlrWJDH+PxHaz2nf6QcFAmceMb0ACgkQPxHaz2nf
-6QfQIRAAvKMvo6Gz9yfWKI8IkeciFJSNso+UDygUPufkXAcovSt0G5I71PAOxXCM
-hBNWz9UjU0xrPzzMBNHEiK9QyfQFIGLgJOnUMli+EhAcoJ1rRa6lhSyUQ2QSOCDY
-crzXCH0dzig5aqyCvg2+BdE8fEVFdq2z1eVjqXoIBRzePVlD0ZPvYfVUJM0VLyQK
-kkDDpMcucMoRpoDpq9rUy9kfWWekft9h855t8Qnv7orLksO1iFr78BZQQ/Vn/lOz
-3bLGjseVswWM89L2F5sVstcq/7h6bZIZUs4uZxoRR+pfwEO2bXv6aclUqfFalEmj
-nN48wVdBOTNYAnzUuWk5YjpPHKJGv3nHEQyEJNbFJRdgc9QdWrmzSodvlosOLDgO
-7slVjdZmmGadbzEN2eO8N5ZQMBdrrHXyL/+MA0oGCa4niJ4U0g3c0vB021Si5a6z
-m6VLtGFnu7buuP7+yevG3+9BhT0YmrHXC86FlFn8y6QtJJG2p777hMz0ifNQNGQw
-ak1wQl+g1UHltAJhiotTWaVEKgHhTwB3HtbW2iYW90A2gM18jhr5z4OzT8sKNE88
-gaxTIzgFRW163J4Wv1gZgSyeLNGx8vBq3gz8vrzTgB8YfGw7+ZfcPKOwdawVDKSc
-3fmY/DfE3MCgjaaUc0/wqS/Tmj04qgQVAqWyQ8QSWFxdXdS0npY=
-=jTyV
+iQIzBAEBCgAdFiEEtBc7vWbbKlrWJDH+PxHaz2nf6QcFAmceM6IACgkQPxHaz2nf
+6Qd8Wg//WNM9N/4FRu2ySX7WOk5fJWD5lMIfY7wOZibD+J3i8xDFB0Yn23r4702Q
+atgMVNuN5yRIh6jeVpuXugjkvcV5duHVUJ8IvTcyURn4NLoiZSlEI/XcSVjpS7Xv
+9xf3p/qIGepwab2nvXiYEJM52NTKQuwy+SWkKmqlE2uWuVAvOEt3apNL5nCBLJKt
+yp/99+r3ZGNT9vnZmBaks6LcThhQOpwZD95hRlydj2Iq6v+6vG6qj/eZ2uQPBUeb
+e5bnyOiJX2Uhujax7ECRffkB5wyGcdk/kCDc7mRpaITuHtu21oahnt+6w4AaI5vs
+Z/jk20r8GR1CUFl8dr3ok02xrDd6eGcGy5oaQxE5KW5Vz/WLPxf5MA2RjWR+UUoa
+mKRmD3Cz29BXP0TyKhXEP55yGN7aTQ5VteiN+52vSPp2r192GG/zeOuQEkI039MZ
+w/0qKeFd/JHiku+I+DGfbikaVc2haiDfbTWP5Ob4lmj8mztQjdW/V9sBbl7EoAEs
+BCD5ZEWXLNAvDVk9BjMdxTTAgr1WYu2ffwC5Hwk5YjGhySzdhHYt1dt66JSTZrD1
+5eF4AVAT+UX/N93kPv9uvEna4naRUPvgBp+HsRyqfQd6ZAJbLNgY+qSjhE/dz3Kc
+aAarf0wEgC0vao23nSZ6aVZa8RwGBTJ72pmXFj1bvT7TLaisqqs=
+=0krp
 -----END PGP SIGNATURE-----
