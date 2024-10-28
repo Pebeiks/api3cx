@@ -5,7 +5,7 @@ Origin: Temo
 Label: Temo Custom Repository
 Suite: stable
 Codename: bionic
-Date: Mon, 28 Oct 2024 09:41:50 UTC
+Date: Mon, 28 Oct 2024 09:46:27 UTC
 Architectures: amd64
 Components: main
 Description: Debian x64 github temo for 3cx repository
@@ -23,17 +23,17 @@ SHA256:
  e53da481e9983dd26cde43b57eebcdecdf6aa858a892830e933c3e2be03d420b 150 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEBYaTUHpglHeg7d3/mlTTDHIeNUoFAmcfXF8ACgkQmlTTDHIe
-NUpMDw//dM+sOjBaQruUXLQerpHZjzydsYyco73PNUv4pIiRNhza0jhi3su4w58b
-nRx9zJVar5GIC97E8DxZaqH/tas1wMicgo1O6E0kKM16QtwdhhlbmnKd7/X14Cq0
-oH9g1sK47xzs9mnsaGHZIMisJVLwA6xveyMnIMuABTk/Pzb+sUhWzkw8ZRg8OxMG
-VMXUXvjzrmxwe8cr/mZKRq16RgHRAB2jCpzwHI8zR/j/Mkba6gUKBkZbZwaVUepM
-3qMOwPeU0zH/co5ZBRJzAJ0kOuuTJ89XzJqtzHQq//4+pfdPzoGasCqX85ybT+eT
-3QCoQzbQ5cTsKXg00E02GAPy1rgHoy9akJeqbYPzMULNg3pA12kZo+Ra4/qAucg3
-lCsxefYAONYEbCXC1ti25kuU+554oqTgY7/AEEXTCgXPyWC8IwVYLKoA8gcKwJwZ
-N3g/ds0Dvb2WpzEHrw3SLjV30uBe92kfoZG6R0STWvJBZTSEsuC9YwMZAyk8D+hd
-usfZC+4i3PUA8GLhfsrEDhclTSm9HXax4eIE7hzeylbV+rwz3wfqbELpbtLzUFWN
-ew8tkj/objRfpjHE7zMhR/pWMSiaQdZt2b6NLGR3z+U6FG2hllUWRm9oj+kjbgR+
-afeaG02FuLhLSPsIRoYQphRa9TI8RvBMQ5RMtk/omlJBd6JhbdE=
-=3zQm
+iQIzBAEBCgAdFiEEBYaTUHpglHeg7d3/mlTTDHIeNUoFAmcfXXUACgkQmlTTDHIe
+NUqu2hAAgmrJrktDrJ4sW159/HcdjsLWmmxxtG7QyjQlgKhS9jViVcoqxztj6jq1
+NAdjDwngBmcQJjVaWaWDf4rD92zGMU3yVf/l2JeAHHPSUKMMPoahB1lQY3h76XdD
+/x4+g4nveQn9u5vX1RvXuzE8OIVBuWa2qSuZN2hLCZf7ehto8N4WabgwydZkse8H
+dKOI3WI4YCIyQDPPEa0+nhRNtHnOhFEDMfqAEYL69kK9g5q3zLQuHb33hwOvfpW+
+qwJjW7oTDvwaCSGLgVXWoJ6uRnaK8a0j1PN6KCpVL/C3iAdal3kMLQt3dJOSRyfX
+TH+fpHZpn4vo/mYpVX4hDGP/PC18vTHUUIIMO2StZmeXptepyxws7a1YX0sFwG4Y
+AlhuEbgTwd6HEDd4wQ+4nMJbs6f8OGzZM6jVUhkHuXLkDGZd/HYZeiJ7+ZBVhL9Y
+lMHPlXye6peZkwQ9VZM5eFVvrLjDnxj6B7Nel4hBNWLKqWk6aZKNKRlmqd+/Ur3x
+5cBnji9PSjYhMtin28aAL8+ROGj/esIgi4cKBBU4mfeKoHkKgGcW7+/C4LO/K0is
+SI7JzstYw5hs+4+8k+Io78lf+3+W2xHLrnHU/HZ3SFeR14Q6MsqHi9CxlNi/L1O5
+IiH6fIBEDc7ZSYytKDwO9HPfIIVPhwjgGrhcLYW1vkhCGRvBYTY=
+=TSOM
 -----END PGP SIGNATURE-----
