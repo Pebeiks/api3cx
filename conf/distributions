@@ -1,8 +1,0 @@
-Origin: Temo
-Label: Temo Custom Repository
-Suite: stable
-Codename: bionic
-Architectures: amd64
-Components: main
-Description: Debian x64 github temo for 3cx repository
-SignWith: 058693507A609477A0EDDDFF9A54D30C721E354A
