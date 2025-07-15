@@ -5,35 +5,35 @@ Origin: Temo
 Label: Temo Custom Repository
 Suite: stable
 Codename: bionic
-Date: Tue, 15 Jul 2025 18:06:01 UTC
+Date: Tue, 15 Jul 2025 18:39:32 UTC
 Architectures: amd64
 Components: main
 Description: Debian x64 github temo for 3cx repository
 MD5Sum:
- 08ab9fa5a6d226ca48decfbb80c0517d 492 main/binary-amd64/Packages
- e10c53b8c85089da9fc432313bc4162a 381 main/binary-amd64/Packages.gz
+ 446d62b4c0193c71027d5247315200b3 492 main/binary-amd64/Packages
+ aef8e41eafd4204db3170819f46a8365 378 main/binary-amd64/Packages.gz
  b7220624d3f795b458d39554a5161d9c 150 main/binary-amd64/Release
 SHA1:
- 8b7bab66941d8df2a77bb5bf8c952871d8b9259a 492 main/binary-amd64/Packages
- 059bf307c3e6b5089f799e0c4e1e8804071e56d8 381 main/binary-amd64/Packages.gz
+ 14919aee70de829fd732badfdbe084ab1ad95fc4 492 main/binary-amd64/Packages
+ 3a9d92b753117e4d4077058c899c707ace219f72 378 main/binary-amd64/Packages.gz
  a1f7d305991396ceb55669546f406c49c8c432ae 150 main/binary-amd64/Release
 SHA256:
- d50b2dd860f669a7e0a7e068e16ffaefd0f4875f0d7160f4f167bf007d085a03 492 main/binary-amd64/Packages
- ef0b808680ca27dc5f54daebcb540b6a6f63c26df72678abe9f51be03890dfdb 381 main/binary-amd64/Packages.gz
+ e855bca7235935bb9d0305055bceef6bd85eddeae7182f97049909729aeab9d2 492 main/binary-amd64/Packages
+ 25e7df58ad4f91aad115821ca1dbaa30b8a6c4b4d6217c13038b98c543b40321 378 main/binary-amd64/Packages.gz
  e53da481e9983dd26cde43b57eebcdecdf6aa858a892830e933c3e2be03d420b 150 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEBYaTUHpglHeg7d3/mlTTDHIeNUoFAmh2mIoACgkQmlTTDHIe
-NUoWbg/+N4jRjoq4vL5E4Wp9zTCizvKs5rgkNIiEyQ51vJnPsScX8Lm1LP0rOkl9
-EN5NcCZa5z00W+1z6fU+G64cEF3IANcLn8H+OfT0aLLYXyRTkX/yKoEzZJhhdWTu
-g23yhvHjM/GWbRK9uvV5dLVe2RSFn43P/8kwWaER0H/PISGaBwgkNGWP9oB2NOGl
-wrX+RCJN6YQ8BwteU3ViUGYBSTcbfBDw4/ELxnQIO/Mo4RwUmPBvGlTOLRDHsV6H
-12Tpk/bAykHDOsyxvzp+YLdCUG7TzpVbhXd13N7KZqbXcZMH12B7Taplo4+ynich
-kyWzXOvDeZdIaERNzHj6hoLYzWPuTpcLvZc8V7RWkYnNnrdUL8CU//sCvxGP9RKL
-1RYxOjrhokehwpikTes5zj44KgpBfhbG2EOtpj5pAyiKjAKj5t9MeL0JTr08wY/g
-lCsRpcN9mYqbxbSgrYM8u6Txmywch58PLmat1PL9BvlJkGHbhWSKQ+H1EZa3ZRgK
-ZEAfN0mDPsi8nWizDPY8zZNtBzT7Kj0ResOMD1Eh3FAqFNiJBDwRd3PtAAzAauni
-JxFG4F2+1ZzaPLdfUhulYd33+sk+ut387X54mGvWV8rBTN+o+rWy0OzExHArAvHa
-1gVRiRQ0mZafYqsQl67F5Npi/0xNfTTv8X/qwM7fo3zo7k6PU4A=
-=A6rz
+iQIzBAEBCgAdFiEEBYaTUHpglHeg7d3/mlTTDHIeNUoFAmh2oGUACgkQmlTTDHIe
+NUrktxAAlyOzGKP1TPSVB/xclB6PoRa+ejnjAbIIDIo8pFNFomcphyHEiry/g8NA
+YcXZ9Ph6X0wyJiNtexLA6eztJgDZRNqOEqEPjp9Vgbilp2IYJLeGgWstivm6VScu
+Zn3ed44gydMjhr0UIEskrq8DW2sfi5JoprvsRhTBUTIZgHt5NQ9fUgu82892thWL
+HOtggF814idrPfOEpaYfFHBNHEUQA9Q6tLbGRsvpAZf6YudkjPwS16ozJZTilj/x
+dwpmuHPO3BRU/RfWmMcfFwMX22y0HnDF4dFSrMj7LgwAfERUFU+nRG5RHpkJo3Di
+wWn3iLvCMuAX1ClrIrxMhxSE04EDmLY/2n/yOL2SLXc/9o6v/kGrQQIOS7i8UrCx
+5BOjGC2pexQE3FrDEa7owQaRAB1Ajq4aPoSki1GF3SYTcplGC8CX/YdxOM5PUveE
+ZSnm4es9P4M3Jitl5BpQlTm0l+z1hZh7PigQelRLiOzwMO/dJ9wb35j9NRENC5qs
+2K7RbuX2mdLw+gxr2gdLGRkdQLvRjsV2B3DQgt9nhYPPdLWlwzS7tdqNGrdHaxGZ
++HQT2TBXzNHmY9t7n9KlrvLcrxwdVfsjXgcLLw+aFJw1tvWkN85u8dWdswHT5Uvv
+XuV7HgRDmxtRtRumvWo5exs+gBoo6EQa92gjv6/cjKrNKHoMdnw=
+=y4f5
 -----END PGP SIGNATURE-----
