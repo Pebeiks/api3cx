@@ -1,15 +1,15 @@
 Package: temo
-Version: 2.0.13
+Version: 2.0.14
 Architecture: amd64
 Depends: 3cxpbx
 Maintainer: Ethem CETINKAYA <etc@iletiks.com>
 Priority: 0
 Section: utils
-Filename: pool/main/t/temo/temo_2.0.13_amd64.deb
-Size: 31645500
-SHA256: 00cc2e154cc6fdfc49d476cb338feb8ea0fd66f8fe45e646691fcb4f6c7221c5
-SHA1: 37ad29c2514126560427b2c1acc4d8b2be9b1986
-MD5sum: ec64d84ae9a22e7bcf6aae13e1564d80
+Filename: pool/main/t/temo/temo_2.0.14_amd64.deb
+Size: 31640052
+SHA256: 30ca40331fb433b3e0aec78b2f934ad509bca4a972c9c86a50cde34992b6bdec
+SHA1: 04f66460a7a654f92e8a18b70a8e1b37176bdae0
+MD5sum: b15a895102a316b417bdcc007b72a42f
 Description: API service for 3CX call management and monitoring.
  This is a Helper Service for 3cxPbx as a background service.
 

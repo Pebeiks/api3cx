@@ -2,19 +2,19 @@ Origin: Temo
 Label: Temo Custom Repository
 Suite: stable
 Codename: bionic
-Date: Tue, 15 Jul 2025 18:45:59 UTC
+Date: Tue, 15 Jul 2025 19:31:54 UTC
 Architectures: amd64
 Components: main
 Description: Debian x64 github temo for 3cx repository
 MD5Sum:
- 446d62b4c0193c71027d5247315200b3 492 main/binary-amd64/Packages
- aef8e41eafd4204db3170819f46a8365 378 main/binary-amd64/Packages.gz
+ 32bbaf8218c33eaa127e260a48a00dae 492 main/binary-amd64/Packages
+ fe12742787dc5d0d42fa2237bd2a65a5 381 main/binary-amd64/Packages.gz
  b7220624d3f795b458d39554a5161d9c 150 main/binary-amd64/Release
 SHA1:
- 14919aee70de829fd732badfdbe084ab1ad95fc4 492 main/binary-amd64/Packages
- 3a9d92b753117e4d4077058c899c707ace219f72 378 main/binary-amd64/Packages.gz
+ 0cf4a964740484c2242c2bde1efc80d968acc30b 492 main/binary-amd64/Packages
+ 0bd790122ae8937929d3a9b633b1e74b802b9dfa 381 main/binary-amd64/Packages.gz
  a1f7d305991396ceb55669546f406c49c8c432ae 150 main/binary-amd64/Release
 SHA256:
- e855bca7235935bb9d0305055bceef6bd85eddeae7182f97049909729aeab9d2 492 main/binary-amd64/Packages
- 25e7df58ad4f91aad115821ca1dbaa30b8a6c4b4d6217c13038b98c543b40321 378 main/binary-amd64/Packages.gz
+ 7ade6ae970759a8fedb661654d32f7e8a98b94c61438b5cb2870cdf4384de197 492 main/binary-amd64/Packages
+ 45504d0e3f1b7de7bd3abe993c59bf28cc374fc76d7a63b6a5875d126ff60f14 381 main/binary-amd64/Packages.gz
  e53da481e9983dd26cde43b57eebcdecdf6aa858a892830e933c3e2be03d420b 150 main/binary-amd64/Release
