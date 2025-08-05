@@ -6,10 +6,10 @@ Maintainer: Ethem CETINKAYA <etc@iletiks.com>
 Priority: 0
 Section: utils
 Filename: pool/main/t/temo/temo_2.0.15_amd64.deb
-Size: 31649140
-SHA256: 7588914f409fd02508c513c2b705f9722d249926c94212f7495aaac879c72616
-SHA1: a6727e945e403d026dbde08e52b351485b195bd2
-MD5sum: 55634be510955c727bfc01a14573a5e6
+Size: 31635876
+SHA256: 52fdd4c33b74595b6527451126de13bb0aeef8c29dd223587e480cdc858da9ad
+SHA1: 2dfc0f6bc9f23eeb2e37b1c9d2ccfcfc55236554
+MD5sum: e8ecc7aa6de539c7510e1aceb651205a
 Description: API service for 3CX call management and monitoring.
  This is a Helper Service for 3cxPbx as a background service.
 
