@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Temo
+Label: Temo Custom Repository
+Suite: stable
+Codename: bookworm
+Date: Thu, 21 Aug 2025 21:09:34 UTC
+Architectures: amd64
+Components: main
+Description: Debian x64 github temo for 3cx repository
+MD5Sum:
+ c650071063f30be956eb4be73b824474 492 main/binary-amd64/Packages
+ 788f6968ad5d017bc8af9ab1c79611f7 379 main/binary-amd64/Packages.gz
+ b7220624d3f795b458d39554a5161d9c 150 main/binary-amd64/Release
+SHA1:
+ 03c856adbf2143d97fc2f81f6587a7b96b11ad0f 492 main/binary-amd64/Packages
+ fa500e02db6017a658a2d3d5d19c84752f6d4e66 379 main/binary-amd64/Packages.gz
+ a1f7d305991396ceb55669546f406c49c8c432ae 150 main/binary-amd64/Release
+SHA256:
+ 2375b8a2cdc941dd107ab06c29b5cd78737ce965d673687436205c5175831abb 492 main/binary-amd64/Packages
+ 84a3e97a0bfeda6650a2394f811cf4c9ef640ff6b0b8e99b6beb70846db918df 379 main/binary-amd64/Packages.gz
+ e53da481e9983dd26cde43b57eebcdecdf6aa858a892830e933c3e2be03d420b 150 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEExumVNwObeUe/qIzHYHkMlNkrP84FAminixAACgkQYHkMlNkr
+P863+w//Sl4uUj72GeqQ/11eQ0ZE/J4mksAE/rP/p6sO8eFJL9q5dyEHRszxTNef
+Hlm7XwJ+mAD1NRoY+TQpjVzJwshNc3zELClBO2I1mzV5Ns3EmgXerg9wcZAifflf
+oN3jPfetqUHq4sfp17qb2Xz/32dSQLxRMDOU0X7U0WbsVaG2Ogmw09reZaorwttI
+HpD21a3DHGiJZSvCZwl+dF0Xyet9nR+eodJwIF2QFYf0D7uJecqWk4MtC9XxSK8F
+QhLDXSc0JXFltZi75BAiIbMYDrF8sxf9pH49PCwXKsqlybteVtv30vKdVItRCxfX
+L/JSIqA4i1/FVrmWbL+gPqA5IUcZmsXQIl1XbgPBolL0NO7DY6Pe28B6BjI7yVGi
+fzxBRkL4aBOMieg+5NvJ6ps27UpLSD8GcCZUfivHsoeMD31SX1JTkPlXaKcsUF6d
+ML5BdRhSLhXv+6p4bMK7bT337G0dUhZ0bNtvgYvNqeiHasO1WcUkRMS/nl2e47ml
+kOZzj4oIq7TRdIJww6Km9699zbG0yhWBEWypkDPUR8VoBevbzfRdmDBU0lxrdBaE
+iAj0FgPVQYGhkuyQgqkDpxc2F5xHogJl6nzath2Ypb4KXGEB3MZD4MtBEVK5O2J9
+/R0UHof3W521eTXilH1QYJgV5nqU+cHx+jnIb/gPdKRYEhXAKN4=
+=7s1F
+-----END PGP SIGNATURE-----
