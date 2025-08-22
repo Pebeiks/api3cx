@@ -6,10 +6,10 @@ Depends: 3cxpbx
 Priority: optional
 Section: utils
 Filename: pool/main/t/temo/temo_2.0.24_amd64.deb
-Size: 34728658
-SHA256: 9b3fd4ebe4dfc443bcef0d80a8ac25da853ef249d8d689593fd5601f961c7986
-SHA1: da7d0ccb0f1ab7d96b69e886a256a2b4af384eff
-MD5sum: a070e4d3b50507ea69bafd80ab71eb62
+Size: 34728654
+SHA256: c99a6e993986b90152c52f22f5e25b0a0b4dd66eb7fe21c12e1a9f7f117c5da6
+SHA1: fcd6e17c298c2dc07f72b99301ece2994f7b159b
+MD5sum: 8ae60d05488178124675c88a536f66c6
 Description: API service for 3CX call management and monitoring.
  This is a Helper Service for 3cxPbx as a background service.
 
