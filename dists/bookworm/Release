@@ -2,19 +2,19 @@ Origin: Temo
 Label: Temo Custom Repository
 Suite: stable
 Codename: bookworm
-Date: Fri, 17 Oct 2025 15:02:47 UTC
+Date: Fri, 17 Oct 2025 15:43:18 UTC
 Architectures: amd64
 Components: main
 Description: Debian x64 github temo for 3cx repository
 MD5Sum:
- cdad9e9439d8e02602b8d169483d067e 499 main/binary-amd64/Packages
- 5cfe2b7fd6e801042e1915cfb5a2d67f 384 main/binary-amd64/Packages.gz
+ 375dbeca063c3941abad1352b09654f2 499 main/binary-amd64/Packages
+ 26e33b2b185e1d438e944a8253dbc07a 382 main/binary-amd64/Packages.gz
  b7220624d3f795b458d39554a5161d9c 150 main/binary-amd64/Release
 SHA1:
- e72f8bfe1aa6f9471085e1c4cd2e2b6a80998312 499 main/binary-amd64/Packages
- 9a9f798ac19e81151266e5565b662747cc548b73 384 main/binary-amd64/Packages.gz
+ 1079e8cfdad538ec15dd4698e947b712c69283d8 499 main/binary-amd64/Packages
+ f187433dc9bb14b4ef6233174f709e14f97951bd 382 main/binary-amd64/Packages.gz
  a1f7d305991396ceb55669546f406c49c8c432ae 150 main/binary-amd64/Release
 SHA256:
- fa027b8e53bc0d42ffc44e47e22e08d7d79cbe85a77bf75465e23c596a1b1d26 499 main/binary-amd64/Packages
- 1a80e549c3cf1961c2c6280432ceb8430c0a3edd43c44967fa55ccc0383ece5f 384 main/binary-amd64/Packages.gz
+ b5d8e7f0e9218ee3877bbd932859de9f408757a3ea0b279597d04afa4e6e84d9 499 main/binary-amd64/Packages
+ d1deb07bdd368cee7249bb7b4f87010478227d88a89c2630f6e1af9e01652606 382 main/binary-amd64/Packages.gz
  e53da481e9983dd26cde43b57eebcdecdf6aa858a892830e933c3e2be03d420b 150 main/binary-amd64/Release
